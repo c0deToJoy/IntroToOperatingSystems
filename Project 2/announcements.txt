@@ -1,0 +1,152 @@
+In the while loop, if the IO Queue 
+transfers a process to Ready, then I should skip 
+running the next process and let it loop again before
+actually executing?
+
+Ensure that if a process moves from IO to ready, 
+and the readyQueue was previously empty, there must 
+be a context switch once that process moves from ready
+to running. Based on the limited context I have here, 
+it seems that this has potentially been overlooked in 
+your code, but if you are properly handling this case 
+elsewhere then it should work okay. 
+
+Incrementing the clock any time there is a context switch. 
+
+Context switch refers to the process of moving a job 
+from ready to running. 
+From your explanation, it seems that you are context 
+switching every time you check the waiting queue and 
+vice versa, which sounds like it might be okay 
+depending on your implementation.
+
+Be sure that you are not context switching every time 
+a process moves back to ready (i.e. Multiple processes 
+finishing I/O at the same time would still only 
+constitute one context switch before running the next 
+process from readyQueue). 
+
+
+Input Modification:
+- As detailed in the project instructions, there 
+ are two additional input values that need to be 
+ handled: CPUAllocated and contextSwtichTime. 
+ Adjust your code from project 1 to handle these 
+ inputs. ✅
+
+- CPUAllocated is the amount of time a process
+ can run for before it is interrupted by the CPU 
+ through a timeOut interrupt. ContextSwitchTime 
+ is the amount of clock cycles it takes for the 
+ CPU to halt a process and switch to executing a 
+ new one. ✅
+
+
+Global Clock:
+- As you know, for this project, we are 
+ incorporating a global clock to assist with 
+ process scheduling. This clock begins after all 
+ the jobs are loaded to memory, and only 
+ increments under 3 conditions:
+ -- An instruction is executed ✅
+ -- There is a context switch ✅
+ -- There are no jobs in the readyQueue, but there 
+  are jobs in the IOWaitingQueue (increment by 
+  contextSwitchTime) ✅?
+ 
+
+Context Switch:
+- The context switch happens when a process moves
+ from ready to running. For our purposes, you 
+ should also context switch into the first 
+ process and out of the last one. (e.g. if the 
+ context switch time is 2, then process 1 should 
+ begin execution at time 2, and your program 
+ should end 2 cylces after the last process 
+ terminates). This simulates the CPU having 
+ other processes to execute outside of the ones 
+ provided by the input. ✅?
+
+
+IOWaitingQueue:
+- For this project we are also implementing the 
+ IOWaitingQueue. This queue simulates the amount 
+ of time it takes for the IO system to process a 
+ message, such as printing to a screen or a file. 
+ When a process has a print instruction, it should
+ move to the IOWaitingQueue and stay there for the
+ amount of cycles that are provided with the 
+ print instruction.
+
+- TWO VERY IMPORTANT THINGS REGARDING THIS QUEUE:
+ -- The queue is checked for processes that need 
+  to be released, only when there is an interrupt.
+ -- All processes are waiting simultaneously 
+  (i.e. whenever the queue is checked, you must 
+  iterate through every process). ✅
+
+- Your print statement should now occur after the
+ process has finished waiting in the
+ IOWaitingQueue. ✅
+
+- When there are no jobs left in the readyQueue, 
+ there may still be jobs in the IOWaitingQueue. 
+ In this case, you should increment the global 
+ clock by the contextSwitchTime and check the 
+ IOWaitingQueue again. Once a job finishes waiting,
+ it always moves back to the readyQueue to
+ execute the next instruction or terminate once 
+ it reaches the CPU again. ✅
+
+
+Interrupts and Atomic Operations:
+- The CPU will issue two types of interrupts. 
+ TimeOut Interrupt and I/O Interrupt. (Process 
+ termination also counts as an interrupt)
+
+- TimeOut Interrupt:
+ -- This happens when a process executes for 
+  more cycles than the CPUAllotted time. However,
+  operations in this system are considered atomic,
+  meaning that once an instruction begins 
+  executing, it will not be interrupted, even if 
+  it will cause the process to exceed the given 
+  time. For example, in the sample input, 
+  CPUAllotted is 5, but Process 1 has a compute 
+  instruction for 10 cycles. The CPU will still 
+  allow P1 to compute for 10 and increment the 
+  global clock, but then it will immediately 
+  TimeOut interrupt P1 and context switch to a 
+  new process.
+
+- I/O Interrupt:
+ -- This happens when a process executes a print 
+ instruction. The process is moved to the 
+ IOWaitingQueue, and the CPU then initiates a 
+ context switch to a new process
+
+- Remember that any time either one of these 
+ interrupts occurs, or a process terminates, the 
+ IOWaitingQueue is checked for processes that 
+ need to move back to the readyQueue.
+
+ 
+
+Output:
+- I have attached the desired output from the 
+ sample input given in the instructions.
+
+- In addition to all the output from Project 1, 
+ you should include messages when:
+ -- A process moves from Ready to Running
+ -- An interrupt occurs
+ -- A process moves from one queue to the other
+ -- A process terminates
+
+- Also notice that "Total CPU cycles consumed" 
+ now reflects the total time from when the process
+ started execution to termination.
+
+- The required outputs are detailed in the 
+ project instructions and shown in the sample 
+ output I have attached.
