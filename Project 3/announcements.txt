@@ -1,0 +1,79 @@
+NewJobQueue:
+    NewJobQueue should have been already created in your programs 
+    since Project 1. There is not much to change here other than 
+    the way jobs are loaded to this queue, which is the scope of 
+    this project.
+    
+Linked List:
+    In addition to the main memory, we are now implementing a new
+    linked list structure that keeps track of free/occupied memory
+    blocks. Think of this as another represenation of the main
+    memory. This is what we will use to facilitate loading and
+    removing jobs from main memory. The linked list can be
+    implemented using a struct and creating your own linked list
+    implementation, or by importing the std::list container. If 
+    you import std::list, you will need to use an iterator to
+    traverse the linked list.
+
+Dynamic Memory Allocation:
+Loading Jobs:
+    As described in the instructions, this list should hold nodes 
+    in the form <ProcessID, StartingAddress, Size>, where empty 
+    blocks hold a processID value of -1. At first, the list should 
+    only hold a single, large empty block. Then, as jobs are loaded,
+    you should replace the empty block with the current process and 
+    then create a new block to represent the rest of the empty space.
+    
+    For example: 
+        -Say we have a max main memory space of 1024. Our linked 
+        list should initially just hold the block <-1, 0, 1024>.
+        -Then say process 1 loads in with a memory limit of 200, 
+        the list should look like this: <1, 0, 210>, <-1, 210, 814> 
+        (remember to account for the 10 spaces taken up by PCB 
+        metadata)
+        -If process 2 loads with a memory limit of 300, the list is 
+        then <1, 0, 210>, <2, 210, 320>, <-1, 530, 494>. And so on. 
+
+    If the current job cannot fit into the main memory, it should 
+    remain in newJobQueue. Then, you should exectute those that are 
+    ready, and then attempt to load that job again once a process 
+    erminates and frees memory space.
+
+Terminating and Removing Jobs:
+    Once a job terminates, you should remove that job from both the 
+    linked list and the main memory. This involves just changing 
+    the processID to -1 in the linked list and setting the memory 
+    to -1 for every address previously occupied by that process. 
+    After clearing the memory, you should try to load more jobs.
+
+    For example:
+        -Say we have a linked list that holds the blocks <1, 0, 210>,
+        <2, 210, 320>, <3, 530, 200>, <-1, 730, 294>
+        -If process 3 terminates, we should end up with <1, 0, 210>, 
+        <2, 210, 320>, <-1, 530, 200>, <-1, 730, 294>
+        -Now if process 4 wants to load with a memory limit of 150, 
+        we then have <1, 0, 210>, <2, 210, 320>, <4, 530, 160>, 
+        <-1, 690, 40>, <-1, 730, 294>
+            *You should load the current ready process into the 
+            first empty block that has enough space
+ 
+Memory Coalescing:
+    When a job wants to load into main memory, but there is no 
+    empty block with enough space to hold that process, you should 
+    coalesce the memory blocks and try again. This means we will 
+    combine adjacent free memory blocks into a single block with
+    more space.
+
+    Continuing with our previous example:
+        -Our current linked list holds <1, 0, 210>, <2, 210, 320>, 
+        <4, 530, 160>, <-1, 690, 40>, <-1, 730, 294>
+        -If process 5 wants to load with a memory limit of 300, 
+        there is no block with 310 memoy, so we must coalesce and 
+        try again.
+        -After coalescing, we end up with <1, 0, 210>, 
+        <2, 210, 320>, <4, 530, 160>, <-1, 690, 334>
+        -Now we can properly load process 5, and any following 
+        process if there were enough remaining space
+            *If the current ready process cannot be loaded after 
+            coalescing, return to execute CPU and try again once 
+            another process terminates

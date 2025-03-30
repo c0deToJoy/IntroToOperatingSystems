@@ -1,0 +1,2756 @@
+Process 1 has moved to Running.
+stored
+loaded
+loaded
+compute
+stored
+Process 1 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 2 has moved to Running.
+loaded
+compute
+loaded
+loaded
+stored
+compute
+Process 2 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 1 completed I/O and is moved to the ReadyQueue.
+Process 3 has moved to Running.
+stored
+compute
+Process 3 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 4 has moved to Running.
+loaded
+Process 4 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 3 completed I/O and is moved to the ReadyQueue.
+Process 5 has moved to Running.
+loaded
+compute
+stored
+stored
+loaded
+compute
+Process 5 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 4 completed I/O and is moved to the ReadyQueue.
+Process 6 has moved to Running.
+stored
+stored
+compute
+Process 6 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 7 has moved to Running.
+Process 7 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 8 has moved to Running.
+stored
+Process 8 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 6 completed I/O and is moved to the ReadyQueue.
+print
+Process 7 completed I/O and is moved to the ReadyQueue.
+Process 9 has moved to Running.
+compute
+loaded
+loaded
+loaded
+stored
+Process 9 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 8 completed I/O and is moved to the ReadyQueue.
+Process 10 has moved to Running.
+stored
+compute
+compute
+Process 10 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 9 completed I/O and is moved to the ReadyQueue.
+Process 11 has moved to Running.
+compute
+compute
+loaded
+Process 11 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 12 has moved to Running.
+Process 12 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 13 has moved to Running.
+Process 13 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 14 has moved to Running.
+compute
+loaded
+Process 14 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 12 completed I/O and is moved to the ReadyQueue.
+print
+Process 13 completed I/O and is moved to the ReadyQueue.
+Process 15 has moved to Running.
+Process 15 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 14 completed I/O and is moved to the ReadyQueue.
+Process 16 has moved to Running.
+loaded
+stored
+loaded
+Process 16 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 15 completed I/O and is moved to the ReadyQueue.
+Process 17 has moved to Running.
+Process 17 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 18 has moved to Running.
+loaded
+stored
+stored
+compute
+loaded
+compute
+Process 18 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 16 completed I/O and is moved to the ReadyQueue.
+print
+Process 17 completed I/O and is moved to the ReadyQueue.
+Process 19 has moved to Running.
+stored
+loaded
+compute
+compute
+Process 19 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 20 has moved to Running.
+loaded
+loaded
+Process 20 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 21 has moved to Running.
+stored
+stored
+stored
+Process 21 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 20 completed I/O and is moved to the ReadyQueue.
+Process 22 has moved to Running.
+Process 22 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 21 completed I/O and is moved to the ReadyQueue.
+Process 23 has moved to Running.
+loaded
+stored
+loaded
+stored
+Process 23 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 22 completed I/O and is moved to the ReadyQueue.
+Process 24 has moved to Running.
+Process 24 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 23 completed I/O and is moved to the ReadyQueue.
+Process 25 has moved to Running.
+loaded
+loaded
+compute
+Process 25 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 24 completed I/O and is moved to the ReadyQueue.
+Process 26 has moved to Running.
+loaded
+stored
+stored
+stored
+stored
+compute
+compute
+Process 26 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 25 completed I/O and is moved to the ReadyQueue.
+Process 27 has moved to Running.
+loaded
+Process 27 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 28 has moved to Running.
+loaded
+stored
+loaded
+loaded
+stored
+loaded
+loaded
+Process 28 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 27 completed I/O and is moved to the ReadyQueue.
+Process 29 has moved to Running.
+stored
+Process 29 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 28 completed I/O and is moved to the ReadyQueue.
+Process 30 has moved to Running.
+stored
+Process 30 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 31 has moved to Running.
+compute
+loaded
+stored
+compute
+Process 31 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 29 completed I/O and is moved to the ReadyQueue.
+print
+Process 30 completed I/O and is moved to the ReadyQueue.
+Process 32 has moved to Running.
+stored
+stored
+Process 32 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 33 has moved to Running.
+Process 33 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 32 completed I/O and is moved to the ReadyQueue.
+Process 34 has moved to Running.
+loaded
+loaded
+stored
+compute
+Process 34 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 33 completed I/O and is moved to the ReadyQueue.
+Process 35 has moved to Running.
+loaded
+loaded
+stored
+loaded
+compute
+stored
+stored
+loaded
+loaded
+loaded
+loaded
+Process 35 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 36 has moved to Running.
+stored
+Process 36 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 35 completed I/O and is moved to the ReadyQueue.
+Process 37 has moved to Running.
+stored
+stored
+stored
+compute
+Process 37 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 36 completed I/O and is moved to the ReadyQueue.
+Process 38 has moved to Running.
+loaded
+Process 38 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 39 has moved to Running.
+loaded
+compute
+loaded
+loaded
+loaded
+Process 39 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 38 completed I/O and is moved to the ReadyQueue.
+Process 40 has moved to Running.
+compute
+compute
+Process 40 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 41 has moved to Running.
+stored
+stored
+loaded
+compute
+compute
+Process 41 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 42 has moved to Running.
+loaded
+Process 42 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 43 has moved to Running.
+loaded
+stored
+loaded
+compute
+loaded
+compute
+Process 43 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 42 completed I/O and is moved to the ReadyQueue.
+Process 2 has moved to Running.
+compute
+compute
+Process ID: 2
+State: TERMINATED
+Program Counter: 462
+Instruction Base: 463
+Data Base: 471
+Memory Limit: 487
+CPU Cycles Used: 43
+Register Value: 89
+Max Memory Needed: 487
+Main Memory Base: 453
+Total CPU Cycles Consumed: 719
+Process 2 terminated. Entered running state at: 27. Terminated at: 746. Total Execution Time: 719.
+Process 2 terminated and released memory from 453 to 949.
+Process 44 loaded into memory at address 453 with size 479.
+Process 45 loaded into memory at address 15913 with size 400.
+Insufficient memory for Process 46. Attempting memory coalescing.
+Process 46 waiting in NewJobQueue due to insufficient memory.
+Process 1 has moved to Running.
+loaded
+compute
+loaded
+stored
+Process 1 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 3 has moved to Running.
+Process 3 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 1 completed I/O and is moved to the ReadyQueue.
+Process 5 has moved to Running.
+Process 5 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 3 completed I/O and is moved to the ReadyQueue.
+Process 4 has moved to Running.
+stored
+stored
+loaded
+stored
+stored
+Process ID: 4
+State: TERMINATED
+Program Counter: 1331
+Instruction Base: 1332
+Data Base: 1339
+Memory Limit: 214
+CPU Cycles Used: 11
+Register Value: 59
+Max Memory Needed: 214
+Main Memory Base: 1322
+Total CPU Cycles Consumed: 716
+Process 4 terminated. Entered running state at: 74. Terminated at: 790. Total Execution Time: 716.
+Process 4 terminated and released memory from 1322 to 1545.
+Insufficient memory for Process 46. Attempting memory coalescing.
+Process 46 waiting in NewJobQueue due to insufficient memory.
+print
+Process 5 completed I/O and is moved to the ReadyQueue.
+Process 6 has moved to Running.
+Process 6 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 7 has moved to Running.
+Process 7 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 6 completed I/O and is moved to the ReadyQueue.
+Process 8 has moved to Running.
+Process 8 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 10 has moved to Running.
+loaded
+compute
+compute
+Process ID: 10
+State: TERMINATED
+Program Counter: 3139
+Instruction Base: 3140
+Data Base: 3146
+Memory Limit: 287
+CPU Cycles Used: 58
+Register Value: -1
+Max Memory Needed: 287
+Main Memory Base: 3130
+Total CPU Cycles Consumed: 679
+Process 10 terminated. Entered running state at: 168. Terminated at: 847. Total Execution Time: 679.
+Process 10 terminated and released memory from 3130 to 3426.
+Insufficient memory for Process 46. Attempting memory coalescing.
+Process 46 waiting in NewJobQueue due to insufficient memory.
+print
+Process 7 completed I/O and is moved to the ReadyQueue.
+print
+Process 8 completed I/O and is moved to the ReadyQueue.
+Process 9 has moved to Running.
+compute
+Process 9 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 11 has moved to Running.
+loaded
+compute
+compute
+Process 11 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 9 completed I/O and is moved to the ReadyQueue.
+Process 12 has moved to Running.
+Process 12 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 13 has moved to Running.
+loaded
+compute
+loaded
+stored
+stored
+compute
+Process 13 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 12 completed I/O and is moved to the ReadyQueue.
+Process 14 has moved to Running.
+Process 14 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 15 has moved to Running.
+stored
+Process 15 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 14 completed I/O and is moved to the ReadyQueue.
+Process 18 has moved to Running.
+loaded
+stored
+Process 18 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 15 completed I/O and is moved to the ReadyQueue.
+Process 16 has moved to Running.
+Process 16 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 18 completed I/O and is moved to the ReadyQueue.
+Process 17 has moved to Running.
+compute
+stored
+stored
+compute
+loaded
+Process 17 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 16 completed I/O and is moved to the ReadyQueue.
+Process 19 has moved to Running.
+loaded
+compute
+Process 19 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 20 has moved to Running.
+stored
+compute
+loaded
+compute
+Process 20 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 19 completed I/O and is moved to the ReadyQueue.
+Process 21 has moved to Running.
+loaded
+loaded
+Process ID: 21
+State: TERMINATED
+Program Counter: 6973
+Instruction Base: 6974
+Data Base: 6980
+Memory Limit: 361
+CPU Cycles Used: 6
+Register Value: -1
+Max Memory Needed: 361
+Main Memory Base: 6964
+Total CPU Cycles Consumed: 674
+Process 21 terminated. Entered running state at: 359. Terminated at: 1033. Total Execution Time: 674.
+Process 21 terminated and released memory from 6964 to 7334.
+Process 46 loaded into memory at address 6964 with size 341.
+Insufficient memory for Process 47. Attempting memory coalescing.
+Process 47 waiting in NewJobQueue due to insufficient memory.
+Process 22 has moved to Running.
+loaded
+stored
+Process 22 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 23 has moved to Running.
+Process 23 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 22 completed I/O and is moved to the ReadyQueue.
+Process 24 has moved to Running.
+Process 24 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 23 completed I/O and is moved to the ReadyQueue.
+Process 26 has moved to Running.
+compute
+Process 26 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 24 completed I/O and is moved to the ReadyQueue.
+Process 25 has moved to Running.
+loaded
+Process ID: 25
+State: TERMINATED
+Program Counter: 8402
+Instruction Base: 8403
+Data Base: 8408
+Memory Limit: 369
+CPU Cycles Used: 16
+Register Value: -1
+Max Memory Needed: 369
+Main Memory Base: 8393
+Total CPU Cycles Consumed: 685
+Process 25 terminated. Entered running state at: 394. Terminated at: 1079. Total Execution Time: 685.
+Process 25 terminated and released memory from 8393 to 8771.
+Insufficient memory for Process 47. Attempting memory coalescing.
+Process 47 waiting in NewJobQueue due to insufficient memory.
+Process 27 has moved to Running.
+Process 27 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 26 completed I/O and is moved to the ReadyQueue.
+Process 28 has moved to Running.
+compute
+Process 28 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 27 completed I/O and is moved to the ReadyQueue.
+Process 31 has moved to Running.
+compute
+Process 31 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 28 completed I/O and is moved to the ReadyQueue.
+Process 29 has moved to Running.
+Process 29 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 31 completed I/O and is moved to the ReadyQueue.
+Process 30 has moved to Running.
+stored
+compute
+Process 30 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 29 completed I/O and is moved to the ReadyQueue.
+Process 32 has moved to Running.
+compute
+Process 32 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 30 completed I/O and is moved to the ReadyQueue.
+Process 34 has moved to Running.
+stored
+compute
+compute
+Process 34 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 32 completed I/O and is moved to the ReadyQueue.
+Process 33 has moved to Running.
+compute
+Process 33 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 35 has moved to Running.
+stored
+Process 35 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 33 completed I/O and is moved to the ReadyQueue.
+Process 37 has moved to Running.
+compute
+stored
+compute
+Process 37 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 35 completed I/O and is moved to the ReadyQueue.
+Process 36 has moved to Running.
+stored
+stored
+loaded
+compute
+Process 36 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 39 has moved to Running.
+Process 39 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 36 completed I/O and is moved to the ReadyQueue.
+Process 38 has moved to Running.
+Process 38 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 39 completed I/O and is moved to the ReadyQueue.
+Process 40 has moved to Running.
+stored
+compute
+stored
+Process 40 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 38 completed I/O and is moved to the ReadyQueue.
+Process 41 has moved to Running.
+stored
+Process 41 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 43 has moved to Running.
+stored
+loaded
+Process 43 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 41 completed I/O and is moved to the ReadyQueue.
+Process 42 has moved to Running.
+compute
+compute
+Process 42 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 43 completed I/O and is moved to the ReadyQueue.
+Process 44 has moved to Running.
+stored
+Process 44 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 45 has moved to Running.
+loaded
+stored
+stored
+loaded
+stored
+stored
+compute
+Process 45 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 44 completed I/O and is moved to the ReadyQueue.
+Process 1 has moved to Running.
+loaded
+Process ID: 1
+State: TERMINATED
+Program Counter: 9
+Instruction Base: 10
+Data Base: 22
+Memory Limit: 443
+CPU Cycles Used: 38
+Register Value: -1
+Max Memory Needed: 443
+Main Memory Base: 0
+Total CPU Cycles Consumed: 1362
+Process 1 terminated. Entered running state at: 7. Terminated at: 1369. Total Execution Time: 1362.
+Process 1 terminated and released memory from 0 to 452.
+Insufficient memory for Process 47. Attempting memory coalescing.
+Process 47 waiting in NewJobQueue due to insufficient memory.
+Process 3 has moved to Running.
+Process 3 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 5 has moved to Running.
+compute
+loaded
+loaded
+Process 5 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 3 completed I/O and is moved to the ReadyQueue.
+Process 6 has moved to Running.
+compute
+loaded
+stored
+Process 6 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 5 completed I/O and is moved to the ReadyQueue.
+Process 7 has moved to Running.
+stored
+compute
+loaded
+Process 7 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 8 has moved to Running.
+Process 8 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 11 has moved to Running.
+compute
+Process 11 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 8 completed I/O and is moved to the ReadyQueue.
+Process 9 has moved to Running.
+stored
+Process 9 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 13 has moved to Running.
+compute
+loaded
+loaded
+Process 13 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 11 completed I/O and is moved to the ReadyQueue.
+print
+Process 9 completed I/O and is moved to the ReadyQueue.
+Process 12 has moved to Running.
+compute
+compute
+Process 12 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 13 completed I/O and is moved to the ReadyQueue.
+Process 14 has moved to Running.
+loaded
+loaded
+compute
+Process 14 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 15 has moved to Running.
+Process 15 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 18 has moved to Running.
+compute
+compute
+Process 18 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 14 completed I/O and is moved to the ReadyQueue.
+print
+Process 15 completed I/O and is moved to the ReadyQueue.
+Process 17 has moved to Running.
+stored
+compute
+compute
+Process 17 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 16 has moved to Running.
+Process 16 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 20 has moved to Running.
+Process 20 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 19 has moved to Running.
+Process 19 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 16 completed I/O and is moved to the ReadyQueue.
+print
+Process 20 completed I/O and is moved to the ReadyQueue.
+Process 46 has moved to Running.
+loaded
+compute
+stored
+Process 46 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 19 completed I/O and is moved to the ReadyQueue.
+Process 22 has moved to Running.
+compute
+compute
+Process 22 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 23 has moved to Running.
+stored
+Process 23 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 24 has moved to Running.
+Process 24 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 26 has moved to Running.
+Process 26 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 23 completed I/O and is moved to the ReadyQueue.
+print
+Process 24 completed I/O and is moved to the ReadyQueue.
+Process 27 has moved to Running.
+compute
+Process 27 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 26 completed I/O and is moved to the ReadyQueue.
+Process 28 has moved to Running.
+loaded
+compute
+loaded
+stored
+Process ID: 28
+State: TERMINATED
+Program Counter: 9682
+Instruction Base: 9683
+Data Base: 9697
+Memory Limit: 465
+CPU Cycles Used: 33
+Register Value: 60
+Max Memory Needed: 465
+Main Memory Base: 9673
+Total CPU Cycles Consumed: 1292
+Process 28 terminated. Entered running state at: 447. Terminated at: 1739. Total Execution Time: 1292.
+Process 28 terminated and released memory from 9673 to 10147.
+Insufficient memory for Process 47. Attempting memory coalescing.
+Process 47 waiting in NewJobQueue due to insufficient memory.
+print
+Process 27 completed I/O and is moved to the ReadyQueue.
+Process 31 has moved to Running.
+Process 31 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 29 has moved to Running.
+Process 29 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 31 completed I/O and is moved to the ReadyQueue.
+Process 30 has moved to Running.
+compute
+stored
+Process 30 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 29 completed I/O and is moved to the ReadyQueue.
+Process 34 has moved to Running.
+compute
+stored
+Process 34 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 30 completed I/O and is moved to the ReadyQueue.
+Process 32 has moved to Running.
+compute
+compute
+Process 32 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 34 completed I/O and is moved to the ReadyQueue.
+Process 33 has moved to Running.
+loaded
+stored
+Process ID: 33
+State: TERMINATED
+Program Counter: 11428
+Instruction Base: 11429
+Data Base: 11434
+Memory Limit: 431
+CPU Cycles Used: 14
+Register Value: 20
+Max Memory Needed: 431
+Main Memory Base: 11419
+Total CPU Cycles Consumed: 1311
+Process 33 terminated. Entered running state at: 514. Terminated at: 1825. Total Execution Time: 1311.
+Process 33 terminated and released memory from 11419 to 11859.
+Insufficient memory for Process 47. Attempting memory coalescing.
+Process 47 waiting in NewJobQueue due to insufficient memory.
+Process 37 has moved to Running.
+Process 37 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 35 has moved to Running.
+stored
+loaded
+compute
+stored
+Process ID: 35
+State: TERMINATED
+Program Counter: 12249
+Instruction Base: 12250
+Data Base: 12268
+Memory Limit: 411
+CPU Cycles Used: 45
+Register Value: 76
+Max Memory Needed: 411
+Main Memory Base: 12240
+Total CPU Cycles Consumed: 1308
+Process 35 terminated. Entered running state at: 545. Terminated at: 1853. Total Execution Time: 1308.
+Process 35 terminated and released memory from 12240 to 12660.
+Insufficient memory for Process 47. Attempting memory coalescing.
+Process 47 waiting in NewJobQueue due to insufficient memory.
+print
+Process 37 completed I/O and is moved to the ReadyQueue.
+Process 36 has moved to Running.
+Process 36 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 39 has moved to Running.
+stored
+Process 39 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 36 completed I/O and is moved to the ReadyQueue.
+Process 40 has moved to Running.
+Process 40 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 38 has moved to Running.
+Process 38 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 39 completed I/O and is moved to the ReadyQueue.
+print
+Process 40 completed I/O and is moved to the ReadyQueue.
+Process 41 has moved to Running.
+Process ID: 41
+State: TERMINATED
+Program Counter: 14721
+Instruction Base: 14722
+Data Base: 14729
+Memory Limit: 454
+CPU Cycles Used: 26
+Register Value: 48
+Max Memory Needed: 454
+Main Memory Base: 14712
+Total CPU Cycles Consumed: 1233
+Process 41 terminated. Entered running state at: 656. Terminated at: 1889. Total Execution Time: 1233.
+Process 41 terminated and released memory from 14712 to 15175.
+Insufficient memory for Process 47. Attempting memory coalescing.
+Process 47 waiting in NewJobQueue due to insufficient memory.
+Process 42 has moved to Running.
+loaded
+Process ID: 42
+State: TERMINATED
+Program Counter: 15185
+Instruction Base: 15186
+Data Base: 15191
+Memory Limit: 439
+CPU Cycles Used: 28
+Register Value: -1
+Max Memory Needed: 439
+Main Memory Base: 15176
+Total CPU Cycles Consumed: 1211
+Process 42 terminated. Entered running state at: 686. Terminated at: 1897. Total Execution Time: 1211.
+Process 42 terminated and released memory from 15176 to 15624.
+Insufficient memory for Process 47. Attempting memory coalescing.
+Memory coalesced. Process 47 can now be loaded.
+Process 47 loaded into memory at address 14712 with size 497.
+Process 48 loaded into memory at address 9673 with size 464.
+Process 49 loaded into memory at address 0 with size 324.
+Process 50 loaded into memory at address 8393 with size 366.
+Process 51 loaded into memory at address 1322 with size 211.
+Process 52 loaded into memory at address 3130 with size 265.
+Process 53 loaded into memory at address 11419 with size 310.
+Process 54 loaded into memory at address 12240 with size 232.
+Process 55 loaded into memory at address 15209 with size 243.
+Insufficient memory for Process 56. Attempting memory coalescing.
+Process 56 waiting in NewJobQueue due to insufficient memory.
+print
+Process 38 completed I/O and is moved to the ReadyQueue.
+Process 43 has moved to Running.
+compute
+loaded
+loaded
+Process 43 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 45 has moved to Running.
+stored
+compute
+stored
+Process 45 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 43 completed I/O and is moved to the ReadyQueue.
+Process 44 has moved to Running.
+Process 44 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 45 completed I/O and is moved to the ReadyQueue.
+Process 3 has moved to Running.
+Process 3 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 44 completed I/O and is moved to the ReadyQueue.
+Process 6 has moved to Running.
+compute
+compute
+Process 6 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 3 completed I/O and is moved to the ReadyQueue.
+Process 5 has moved to Running.
+loaded
+loaded
+Process 5 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 7 has moved to Running.
+loaded
+loaded
+stored
+compute
+loaded
+Process ID: 7
+State: TERMINATED
+Program Counter: 2110
+Instruction Base: 2111
+Data Base: 2121
+Memory Limit: 408
+CPU Cycles Used: 40
+Register Value: -1
+Max Memory Needed: 408
+Main Memory Base: 2101
+Total CPU Cycles Consumed: 1874
+Process 7 terminated. Entered running state at: 130. Terminated at: 2004. Total Execution Time: 1874.
+Process 7 terminated and released memory from 2101 to 2518.
+Insufficient memory for Process 56. Attempting memory coalescing.
+Process 56 waiting in NewJobQueue due to insufficient memory.
+print
+Process 5 completed I/O and is moved to the ReadyQueue.
+Process 8 has moved to Running.
+stored
+loaded
+loaded
+compute
+stored
+stored
+loaded
+Process 8 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 11 has moved to Running.
+loaded
+stored
+compute
+loaded
+Process ID: 11
+State: TERMINATED
+Program Counter: 3436
+Instruction Base: 3437
+Data Base: 3449
+Memory Limit: 256
+CPU Cycles Used: 72
+Register Value: -1
+Max Memory Needed: 256
+Main Memory Base: 3427
+Total CPU Cycles Consumed: 1836
+Process 11 terminated. Entered running state at: 204. Terminated at: 2040. Total Execution Time: 1836.
+Process 11 terminated and released memory from 3427 to 3692.
+Insufficient memory for Process 56. Attempting memory coalescing.
+Process 56 waiting in NewJobQueue due to insufficient memory.
+print
+Process 8 completed I/O and is moved to the ReadyQueue.
+Process 9 has moved to Running.
+loaded
+stored
+compute
+Process ID: 9
+State: TERMINATED
+Program Counter: 2785
+Instruction Base: 2786
+Data Base: 2799
+Memory Limit: 344
+CPU Cycles Used: 56
+Register Value: 61
+Max Memory Needed: 344
+Main Memory Base: 2776
+Total CPU Cycles Consumed: 1918
+Process 9 terminated. Entered running state at: 145. Terminated at: 2063. Total Execution Time: 1918.
+Process 9 terminated and released memory from 2776 to 3129.
+Insufficient memory for Process 56. Attempting memory coalescing.
+Process 56 waiting in NewJobQueue due to insufficient memory.
+Process 12 has moved to Running.
+Process 12 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 13 has moved to Running.
+stored
+stored
+compute
+loaded
+Process 13 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 12 completed I/O and is moved to the ReadyQueue.
+Process 18 has moved to Running.
+Process 18 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 13 completed I/O and is moved to the ReadyQueue.
+Process 14 has moved to Running.
+compute
+stored
+stored
+Process ID: 14
+State: TERMINATED
+Program Counter: 4460
+Instruction Base: 4461
+Data Base: 4472
+Memory Limit: 270
+CPU Cycles Used: 42
+Register Value: 40
+Max Memory Needed: 270
+Main Memory Base: 4451
+Total CPU Cycles Consumed: 1867
+Process 14 terminated. Entered running state at: 242. Terminated at: 2109. Total Execution Time: 1867.
+Process 14 terminated and released memory from 4451 to 4730.
+Insufficient memory for Process 56. Attempting memory coalescing.
+Process 56 waiting in NewJobQueue due to insufficient memory.
+print
+Process 18 completed I/O and is moved to the ReadyQueue.
+Process 15 has moved to Running.
+loaded
+stored
+compute
+stored
+Process 15 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 17 has moved to Running.
+loaded
+Process ID: 17
+State: TERMINATED
+Program Counter: 5489
+Instruction Base: 5490
+Data Base: 5500
+Memory Limit: 450
+CPU Cycles Used: 41
+Register Value: -1
+Max Memory Needed: 450
+Main Memory Base: 5480
+Total CPU Cycles Consumed: 1857
+Process 17 terminated. Entered running state at: 281. Terminated at: 2138. Total Execution Time: 1857.
+Process 17 terminated and released memory from 5480 to 5939.
+Insufficient memory for Process 56. Attempting memory coalescing.
+Process 56 waiting in NewJobQueue due to insufficient memory.
+print
+Process 15 completed I/O and is moved to the ReadyQueue.
+Process 16 has moved to Running.
+Process 16 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 20 has moved to Running.
+Process 20 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 46 has moved to Running.
+compute
+stored
+Process 46 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 16 completed I/O and is moved to the ReadyQueue.
+print
+Process 20 completed I/O and is moved to the ReadyQueue.
+Process 19 has moved to Running.
+Process ID: 19
+State: TERMINATED
+Program Counter: 6389
+Instruction Base: 6390
+Data Base: 6398
+Memory Limit: 275
+CPU Cycles Used: 40
+Register Value: -1
+Max Memory Needed: 275
+Main Memory Base: 6380
+Total CPU Cycles Consumed: 1854
+Process 19 terminated. Entered running state at: 323. Terminated at: 2177. Total Execution Time: 1854.
+Process 19 terminated and released memory from 6380 to 6664.
+Insufficient memory for Process 56. Attempting memory coalescing.
+Process 56 waiting in NewJobQueue due to insufficient memory.
+print
+Process 46 completed I/O and is moved to the ReadyQueue.
+Process 22 has moved to Running.
+compute
+loaded
+loaded
+Process 22 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 23 has moved to Running.
+loaded
+Process 23 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 22 completed I/O and is moved to the ReadyQueue.
+Process 24 has moved to Running.
+Process 24 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 23 completed I/O and is moved to the ReadyQueue.
+Process 26 has moved to Running.
+compute
+stored
+loaded
+stored
+stored
+Process 26 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 24 completed I/O and is moved to the ReadyQueue.
+Process 27 has moved to Running.
+stored
+Process 27 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 26 completed I/O and is moved to the ReadyQueue.
+Process 31 has moved to Running.
+Process 31 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 27 completed I/O and is moved to the ReadyQueue.
+Process 29 has moved to Running.
+Process 29 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 31 completed I/O and is moved to the ReadyQueue.
+Process 30 has moved to Running.
+stored
+Process 30 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 29 completed I/O and is moved to the ReadyQueue.
+Process 32 has moved to Running.
+Process 32 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 30 completed I/O and is moved to the ReadyQueue.
+Process 34 has moved to Running.
+stored
+stored
+Process ID: 34
+State: TERMINATED
+Program Counter: 11869
+Instruction Base: 11870
+Data Base: 11882
+Memory Limit: 370
+CPU Cycles Used: 54
+Register Value: 78
+Max Memory Needed: 370
+Main Memory Base: 11860
+Total CPU Cycles Consumed: 1756
+Process 34 terminated. Entered running state at: 521. Terminated at: 2277. Total Execution Time: 1756.
+Process 34 terminated and released memory from 11860 to 12239.
+Insufficient memory for Process 56. Attempting memory coalescing.
+Memory coalesced. Process 56 can now be loaded.
+Process 56 loaded into memory at address 11729 with size 481.
+Insufficient memory for Process 57. Attempting memory coalescing.
+Process 57 waiting in NewJobQueue due to insufficient memory.
+print
+Process 32 completed I/O and is moved to the ReadyQueue.
+Process 37 has moved to Running.
+Process ID: 37
+State: TERMINATED
+Program Counter: 13143
+Instruction Base: 13144
+Data Base: 13152
+Memory Limit: 323
+CPU Cycles Used: 40
+Register Value: 46
+Max Memory Needed: 323
+Main Memory Base: 13134
+Total CPU Cycles Consumed: 1708
+Process 37 terminated. Entered running state at: 576. Terminated at: 2284. Total Execution Time: 1708.
+Process 37 terminated and released memory from 13134 to 13466.
+Insufficient memory for Process 57. Attempting memory coalescing.
+Process 57 waiting in NewJobQueue due to insufficient memory.
+Process 36 has moved to Running.
+compute
+compute
+stored
+compute
+Process 36 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 39 has moved to Running.
+Process 39 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 40 has moved to Running.
+compute
+stored
+loaded
+stored
+Process 40 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 39 completed I/O and is moved to the ReadyQueue.
+Process 47 has moved to Running.
+stored
+compute
+compute
+loaded
+Process 47 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 40 completed I/O and is moved to the ReadyQueue.
+Process 48 has moved to Running.
+Process 48 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 49 has moved to Running.
+Process 49 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 48 completed I/O and is moved to the ReadyQueue.
+Process 50 has moved to Running.
+loaded
+compute
+stored
+Process 50 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 49 completed I/O and is moved to the ReadyQueue.
+Process 51 has moved to Running.
+compute
+stored
+Process 51 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 50 completed I/O and is moved to the ReadyQueue.
+Process 52 has moved to Running.
+Process 52 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 53 has moved to Running.
+Process 53 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 51 completed I/O and is moved to the ReadyQueue.
+print
+Process 52 completed I/O and is moved to the ReadyQueue.
+Process 54 has moved to Running.
+Process 54 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 53 completed I/O and is moved to the ReadyQueue.
+Process 55 has moved to Running.
+Process 55 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 54 completed I/O and is moved to the ReadyQueue.
+Process 38 has moved to Running.
+compute
+compute
+Process 38 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 55 completed I/O and is moved to the ReadyQueue.
+Process 43 has moved to Running.
+compute
+Process 43 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 45 has moved to Running.
+Process 45 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 43 completed I/O and is moved to the ReadyQueue.
+Process 44 has moved to Running.
+loaded
+loaded
+loaded
+Process 44 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 45 completed I/O and is moved to the ReadyQueue.
+Process 6 has moved to Running.
+compute
+loaded
+loaded
+Process 6 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 44 completed I/O and is moved to the ReadyQueue.
+Process 3 has moved to Running.
+loaded
+loaded
+stored
+stored
+stored
+Process 3 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 6 completed I/O and is moved to the ReadyQueue.
+Process 5 has moved to Running.
+Process 5 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 3 completed I/O and is moved to the ReadyQueue.
+Process 8 has moved to Running.
+stored
+Process 8 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 12 has moved to Running.
+compute
+stored
+Process ID: 12
+State: TERMINATED
+Program Counter: 3702
+Instruction Base: 3703
+Data Base: 3710
+Memory Limit: 293
+CPU Cycles Used: 48
+Register Value: 51
+Max Memory Needed: 293
+Main Memory Base: 3693
+Total CPU Cycles Consumed: 2336
+Process 12 terminated. Entered running state at: 228. Terminated at: 2564. Total Execution Time: 2336.
+Process 12 terminated and released memory from 3693 to 3995.
+Insufficient memory for Process 57. Attempting memory coalescing.
+Memory coalesced. Process 57 can now be loaded.
+Process 57 loaded into memory at address 3395 with size 472.
+Process 58 loaded into memory at address 2101 with size 246.
+Process 59 loaded into memory at address 2776 with size 236.
+Process 60 loaded into memory at address 5480 with size 452.
+Process 61 loaded into memory at address 4451 with size 227.
+Insufficient memory for Process 62. Attempting memory coalescing.
+Process 62 waiting in NewJobQueue due to insufficient memory.
+print
+Process 5 completed I/O and is moved to the ReadyQueue.
+print
+Process 8 completed I/O and is moved to the ReadyQueue.
+Process 13 has moved to Running.
+compute
+compute
+Process 13 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 18 has moved to Running.
+Process 18 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 15 has moved to Running.
+loaded
+Process 15 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 18 completed I/O and is moved to the ReadyQueue.
+Process 16 has moved to Running.
+compute
+Process ID: 16
+State: TERMINATED
+Program Counter: 5217
+Instruction Base: 5218
+Data Base: 5226
+Memory Limit: 262
+CPU Cycles Used: 46
+Register Value: -1
+Max Memory Needed: 262
+Main Memory Base: 5208
+Total CPU Cycles Consumed: 2354
+Process 16 terminated. Entered running state at: 271. Terminated at: 2625. Total Execution Time: 2354.
+Process 16 terminated and released memory from 5208 to 5479.
+Insufficient memory for Process 62. Attempting memory coalescing.
+Process 62 waiting in NewJobQueue due to insufficient memory.
+print
+Process 15 completed I/O and is moved to the ReadyQueue.
+Process 20 has moved to Running.
+stored
+Process 20 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 46 has moved to Running.
+Process ID: 46
+State: TERMINATED
+Program Counter: 6973
+Instruction Base: 6974
+Data Base: 6980
+Memory Limit: 331
+CPU Cycles Used: 34
+Register Value: 37
+Max Memory Needed: 331
+Main Memory Base: 6964
+Total CPU Cycles Consumed: 1005
+Process 46 terminated. Entered running state at: 1635. Terminated at: 2640. Total Execution Time: 1005.
+Process 46 terminated and released memory from 6964 to 7304.
+Insufficient memory for Process 62. Attempting memory coalescing.
+Memory coalesced. Process 62 can now be loaded.
+Process 62 loaded into memory at address 6964 with size 362.
+Insufficient memory for Process 63. Attempting memory coalescing.
+Process 63 waiting in NewJobQueue due to insufficient memory.
+print
+Process 20 completed I/O and is moved to the ReadyQueue.
+Process 22 has moved to Running.
+loaded
+stored
+stored
+Process ID: 22
+State: TERMINATED
+Program Counter: 7344
+Instruction Base: 7345
+Data Base: 7358
+Memory Limit: 484
+CPU Cycles Used: 64
+Register Value: 84
+Max Memory Needed: 484
+Main Memory Base: 7335
+Total CPU Cycles Consumed: 2281
+Process 22 terminated. Entered running state at: 369. Terminated at: 2650. Total Execution Time: 2281.
+Process 22 terminated and released memory from 7335 to 7828.
+Process 63 loaded into memory at address 7335 with size 421.
+Insufficient memory for Process 64. Attempting memory coalescing.
+Process 64 waiting in NewJobQueue due to insufficient memory.
+Process 23 has moved to Running.
+compute
+compute
+compute
+Process 23 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 24 has moved to Running.
+stored
+loaded
+Process 24 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 26 has moved to Running.
+Process 26 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 24 completed I/O and is moved to the ReadyQueue.
+Process 27 has moved to Running.
+Process 27 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 26 completed I/O and is moved to the ReadyQueue.
+Process 31 has moved to Running.
+stored
+compute
+Process 31 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 27 completed I/O and is moved to the ReadyQueue.
+Process 29 has moved to Running.
+loaded
+Process 29 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 31 completed I/O and is moved to the ReadyQueue.
+Process 30 has moved to Running.
+stored
+loaded
+Process 30 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 29 completed I/O and is moved to the ReadyQueue.
+Process 56 has moved to Running.
+loaded
+loaded
+stored
+Process 56 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 30 completed I/O and is moved to the ReadyQueue.
+Process 32 has moved to Running.
+Process 32 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 56 completed I/O and is moved to the ReadyQueue.
+Process 36 has moved to Running.
+loaded
+loaded
+Process 36 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 39 has moved to Running.
+stored
+compute
+compute
+Process 39 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 32 completed I/O and is moved to the ReadyQueue.
+print
+Process 36 completed I/O and is moved to the ReadyQueue.
+Process 47 has moved to Running.
+compute
+Process 47 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 40 has moved to Running.
+Process 40 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 48 has moved to Running.
+loaded
+stored
+stored
+compute
+compute
+Process 48 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 47 completed I/O and is moved to the ReadyQueue.
+print
+Process 40 completed I/O and is moved to the ReadyQueue.
+Process 49 has moved to Running.
+Process 49 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 50 has moved to Running.
+Process 50 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 49 completed I/O and is moved to the ReadyQueue.
+Process 51 has moved to Running.
+loaded
+loaded
+stored
+Process ID: 51
+State: TERMINATED
+Program Counter: 1331
+Instruction Base: 1332
+Data Base: 1338
+Memory Limit: 201
+CPU Cycles Used: 26
+Register Value: 44
+Max Memory Needed: 201
+Main Memory Base: 1322
+Total CPU Cycles Consumed: 477
+Process 51 terminated. Entered running state at: 2400. Terminated at: 2877. Total Execution Time: 477.
+Process 51 terminated and released memory from 1322 to 1532.
+Insufficient memory for Process 64. Attempting memory coalescing.
+Process 64 waiting in NewJobQueue due to insufficient memory.
+print
+Process 50 completed I/O and is moved to the ReadyQueue.
+Process 52 has moved to Running.
+compute
+loaded
+stored
+compute
+Process 52 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 53 has moved to Running.
+stored
+stored
+stored
+compute
+stored
+compute
+Process ID: 53
+State: TERMINATED
+Program Counter: 11428
+Instruction Base: 11429
+Data Base: 11436
+Memory Limit: 300
+CPU Cycles Used: 26
+Register Value: 61
+Max Memory Needed: 300
+Main Memory Base: 11419
+Total CPU Cycles Consumed: 510
+Process 53 terminated. Entered running state at: 2427. Terminated at: 2937. Total Execution Time: 510.
+Process 53 terminated and released memory from 11419 to 11728.
+Insufficient memory for Process 64. Attempting memory coalescing.
+Process 64 waiting in NewJobQueue due to insufficient memory.
+Process 54 has moved to Running.
+Process 54 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 38 has moved to Running.
+compute
+stored
+loaded
+Process 38 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 54 completed I/O and is moved to the ReadyQueue.
+Process 55 has moved to Running.
+loaded
+Process 55 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 38 completed I/O and is moved to the ReadyQueue.
+Process 43 has moved to Running.
+compute
+loaded
+compute
+Process 43 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 55 completed I/O and is moved to the ReadyQueue.
+Process 45 has moved to Running.
+stored
+stored
+loaded
+Process 45 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 44 has moved to Running.
+stored
+Process 44 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 45 completed I/O and is moved to the ReadyQueue.
+Process 6 has moved to Running.
+Process 6 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 44 completed I/O and is moved to the ReadyQueue.
+Process 3 has moved to Running.
+loaded
+Process 3 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 57 has moved to Running.
+Process 57 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 6 completed I/O and is moved to the ReadyQueue.
+print
+Process 3 completed I/O and is moved to the ReadyQueue.
+Process 58 has moved to Running.
+Process 58 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 57 completed I/O and is moved to the ReadyQueue.
+Process 59 has moved to Running.
+compute
+compute
+Process 59 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 58 completed I/O and is moved to the ReadyQueue.
+Process 60 has moved to Running.
+stored
+Process 60 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 61 has moved to Running.
+stored
+Process 61 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 59 completed I/O and is moved to the ReadyQueue.
+print
+Process 60 completed I/O and is moved to the ReadyQueue.
+Process 5 has moved to Running.
+loaded
+loaded
+Process ID: 5
+State: TERMINATED
+Program Counter: 1555
+Instruction Base: 1556
+Data Base: 1573
+Memory Limit: 288
+CPU Cycles Used: 66
+Register Value: -1
+Max Memory Needed: 288
+Main Memory Base: 1546
+Total CPU Cycles Consumed: 3017
+Process 5 terminated. Entered running state at: 82. Terminated at: 3099. Total Execution Time: 3017.
+Process 5 terminated and released memory from 1546 to 1843.
+Insufficient memory for Process 64. Attempting memory coalescing.
+Memory coalesced. Process 64 can now be loaded.
+Process 64 loaded into memory at address 1322 with size 508.
+Insufficient memory for Process 65. Attempting memory coalescing.
+Process 65 waiting in NewJobQueue due to insufficient memory.
+print
+Process 61 completed I/O and is moved to the ReadyQueue.
+Process 8 has moved to Running.
+stored
+compute
+Process ID: 8
+State: TERMINATED
+Program Counter: 2528
+Instruction Base: 2529
+Data Base: 2545
+Memory Limit: 247
+CPU Cycles Used: 60
+Register Value: 64
+Max Memory Needed: 247
+Main Memory Base: 2519
+Total CPU Cycles Consumed: 2984
+Process 8 terminated. Entered running state at: 137. Terminated at: 3121. Total Execution Time: 2984.
+Process 8 terminated and released memory from 2519 to 2775.
+Insufficient memory for Process 65. Attempting memory coalescing.
+Process 65 waiting in NewJobQueue due to insufficient memory.
+Process 13 has moved to Running.
+Process 13 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 18 has moved to Running.
+stored
+stored
+compute
+loaded
+loaded
+Process ID: 18
+State: TERMINATED
+Program Counter: 5949
+Instruction Base: 5950
+Data Base: 5968
+Memory Limit: 430
+CPU Cycles Used: 84
+Register Value: -1
+Max Memory Needed: 430
+Main Memory Base: 5940
+Total CPU Cycles Consumed: 2861
+Process 18 terminated. Entered running state at: 288. Terminated at: 3149. Total Execution Time: 2861.
+Process 18 terminated and released memory from 5940 to 6379.
+Insufficient memory for Process 65. Attempting memory coalescing.
+Memory coalesced. Process 65 can now be loaded.
+Process 65 loaded into memory at address 5932 with size 473.
+Process 66 loaded into memory at address 2347 with size 338.
+Process 67 loaded into memory at address 11419 with size 309.
+Process 68 loaded into memory at address 13134 with size 329.
+Insufficient memory for Process 69. Attempting memory coalescing.
+Process 69 waiting in NewJobQueue due to insufficient memory.
+print
+Process 13 completed I/O and is moved to the ReadyQueue.
+Process 15 has moved to Running.
+Process 15 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 62 has moved to Running.
+stored
+Process 62 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 20 has moved to Running.
+stored
+stored
+stored
+compute
+Process ID: 20
+State: TERMINATED
+Program Counter: 6674
+Instruction Base: 6675
+Data Base: 6690
+Memory Limit: 289
+CPU Cycles Used: 54
+Register Value: 55
+Max Memory Needed: 289
+Main Memory Base: 6665
+Total CPU Cycles Consumed: 2837
+Process 20 terminated. Entered running state at: 350. Terminated at: 3187. Total Execution Time: 2837.
+Process 20 terminated and released memory from 6665 to 6963.
+Insufficient memory for Process 69. Attempting memory coalescing.
+Memory coalesced. Process 69 can now be loaded.
+Process 69 loaded into memory at address 6405 with size 508.
+Insufficient memory for Process 70. Attempting memory coalescing.
+Process 70 waiting in NewJobQueue due to insufficient memory.
+print
+Process 15 completed I/O and is moved to the ReadyQueue.
+print
+Process 62 completed I/O and is moved to the ReadyQueue.
+Process 63 has moved to Running.
+Process 63 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 23 has moved to Running.
+Process 23 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 63 completed I/O and is moved to the ReadyQueue.
+Process 24 has moved to Running.
+stored
+stored
+compute
+loaded
+stored
+compute
+Process 24 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 23 completed I/O and is moved to the ReadyQueue.
+Process 26 has moved to Running.
+stored
+Process ID: 26
+State: TERMINATED
+Program Counter: 8781
+Instruction Base: 8782
+Data Base: 8800
+Memory Limit: 383
+CPU Cycles Used: 65
+Register Value: 91
+Max Memory Needed: 383
+Main Memory Base: 8772
+Total CPU Cycles Consumed: 2831
+Process 26 terminated. Entered running state at: 410. Terminated at: 3241. Total Execution Time: 2831.
+Process 26 terminated and released memory from 8772 to 9164.
+Insufficient memory for Process 70. Attempting memory coalescing.
+Process 70 waiting in NewJobQueue due to insufficient memory.
+Process 27 has moved to Running.
+Process 27 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 31 has moved to Running.
+stored
+compute
+stored
+Process 31 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 27 completed I/O and is moved to the ReadyQueue.
+Process 29 has moved to Running.
+compute
+compute
+Process ID: 29
+State: TERMINATED
+Program Counter: 10157
+Instruction Base: 10158
+Data Base: 10167
+Memory Limit: 460
+CPU Cycles Used: 49
+Register Value: -1
+Max Memory Needed: 460
+Main Memory Base: 10148
+Total CPU Cycles Consumed: 2828
+Process 29 terminated. Entered running state at: 461. Terminated at: 3289. Total Execution Time: 2828.
+Process 29 terminated and released memory from 10148 to 10617.
+Insufficient memory for Process 70. Attempting memory coalescing.
+Memory coalesced. Process 70 can now be loaded.
+Process 70 loaded into memory at address 10137 with size 471.
+print
+Process 31 completed I/O and is moved to the ReadyQueue.
+Process 30 has moved to Running.
+loaded
+stored
+compute
+Process 30 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 56 has moved to Running.
+stored
+stored
+Process 56 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 39 has moved to Running.
+stored
+Process 39 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 30 completed I/O and is moved to the ReadyQueue.
+print
+Process 56 completed I/O and is moved to the ReadyQueue.
+Process 32 has moved to Running.
+Process 32 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 36 has moved to Running.
+stored
+compute
+Process ID: 36
+State: TERMINATED
+Program Counter: 12670
+Instruction Base: 12671
+Data Base: 12688
+Memory Limit: 463
+CPU Cycles Used: 68
+Register Value: 18
+Max Memory Needed: 463
+Main Memory Base: 12661
+Total CPU Cycles Consumed: 2779
+Process 36 terminated. Entered running state at: 568. Terminated at: 3347. Total Execution Time: 2779.
+Process 36 terminated and released memory from 12661 to 13133.
+print
+Process 39 completed I/O and is moved to the ReadyQueue.
+print
+Process 32 completed I/O and is moved to the ReadyQueue.
+Process 48 has moved to Running.
+compute
+loaded
+Process 48 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 47 has moved to Running.
+loaded
+Process 47 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 48 completed I/O and is moved to the ReadyQueue.
+Process 40 has moved to Running.
+stored
+compute
+stored
+loaded
+stored
+loaded
+stored
+Process 40 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 47 completed I/O and is moved to the ReadyQueue.
+Process 49 has moved to Running.
+loaded
+loaded
+compute
+stored
+Process 49 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 40 completed I/O and is moved to the ReadyQueue.
+Process 50 has moved to Running.
+stored
+loaded
+Process 50 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 49 completed I/O and is moved to the ReadyQueue.
+Process 52 has moved to Running.
+compute
+compute
+stored
+Process 52 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 50 completed I/O and is moved to the ReadyQueue.
+Process 54 has moved to Running.
+Process 54 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 38 has moved to Running.
+compute
+Process 38 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 54 completed I/O and is moved to the ReadyQueue.
+Process 43 has moved to Running.
+loaded
+Process ID: 43
+State: TERMINATED
+Program Counter: 15634
+Instruction Base: 15635
+Data Base: 15654
+Memory Limit: 278
+CPU Cycles Used: 89
+Register Value: -1
+Max Memory Needed: 278
+Main Memory Base: 15625
+Total CPU Cycles Consumed: 2791
+Process 43 terminated. Entered running state at: 694. Terminated at: 3485. Total Execution Time: 2791.
+Process 43 terminated and released memory from 15625 to 15912.
+Process 55 has moved to Running.
+loaded
+loaded
+Process 55 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 38 completed I/O and is moved to the ReadyQueue.
+Process 45 has moved to Running.
+compute
+loaded
+compute
+Process 45 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 55 completed I/O and is moved to the ReadyQueue.
+Process 44 has moved to Running.
+stored
+stored
+loaded
+Process 44 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 6 has moved to Running.
+loaded
+loaded
+compute
+Process 6 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 44 completed I/O and is moved to the ReadyQueue.
+Process 3 has moved to Running.
+loaded
+compute
+compute
+Process 3 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 6 completed I/O and is moved to the ReadyQueue.
+Process 57 has moved to Running.
+compute
+stored
+loaded
+compute
+Process 57 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 58 has moved to Running.
+compute
+Process 58 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 59 has moved to Running.
+stored
+Process 59 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 60 has moved to Running.
+Process 60 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 58 completed I/O and is moved to the ReadyQueue.
+print
+Process 59 completed I/O and is moved to the ReadyQueue.
+Process 64 has moved to Running.
+Process 64 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 61 has moved to Running.
+stored
+stored
+compute
+compute
+Process 61 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 60 completed I/O and is moved to the ReadyQueue.
+print
+Process 64 completed I/O and is moved to the ReadyQueue.
+Process 65 has moved to Running.
+loaded
+compute
+compute
+Process 65 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 66 has moved to Running.
+Process 66 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 67 has moved to Running.
+loaded
+compute
+stored
+Process 67 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 66 completed I/O and is moved to the ReadyQueue.
+Process 68 has moved to Running.
+loaded
+loaded
+compute
+Process 68 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 13 has moved to Running.
+Process ID: 13
+State: TERMINATED
+Program Counter: 4005
+Instruction Base: 4006
+Data Base: 4025
+Memory Limit: 445
+CPU Cycles Used: 79
+Register Value: -1
+Max Memory Needed: 445
+Main Memory Base: 3996
+Total CPU Cycles Consumed: 3530
+Process 13 terminated. Entered running state at: 235. Terminated at: 3765. Total Execution Time: 3530.
+Process 13 terminated and released memory from 3996 to 4450.
+print
+Process 68 completed I/O and is moved to the ReadyQueue.
+Process 69 has moved to Running.
+stored
+stored
+loaded
+compute
+Process 69 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 15 has moved to Running.
+compute
+stored
+Process 15 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 69 completed I/O and is moved to the ReadyQueue.
+Process 62 has moved to Running.
+compute
+Process 62 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 15 completed I/O and is moved to the ReadyQueue.
+Process 63 has moved to Running.
+loaded
+compute
+stored
+Process 63 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 62 completed I/O and is moved to the ReadyQueue.
+Process 24 has moved to Running.
+compute
+compute
+Process 24 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 23 has moved to Running.
+loaded
+Process ID: 23
+State: TERMINATED
+Program Counter: 7838
+Instruction Base: 7839
+Data Base: 7854
+Memory Limit: 270
+CPU Cycles Used: 61
+Register Value: -1
+Max Memory Needed: 270
+Main Memory Base: 7829
+Total CPU Cycles Consumed: 3502
+Process 23 terminated. Entered running state at: 376. Terminated at: 3878. Total Execution Time: 3502.
+Process 23 terminated and released memory from 7829 to 8108.
+Process 27 has moved to Running.
+stored
+Process ID: 27
+State: TERMINATED
+Program Counter: 9174
+Instruction Base: 9175
+Data Base: 9185
+Memory Limit: 498
+CPU Cycles Used: 36
+Register Value: 23
+Max Memory Needed: 498
+Main Memory Base: 9165
+Total CPU Cycles Consumed: 3447
+Process 27 terminated. Entered running state at: 439. Terminated at: 3886. Total Execution Time: 3447.
+Process 27 terminated and released memory from 9165 to 9672.
+Process 70 has moved to Running.
+Process 70 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 31 has moved to Running.
+stored
+loaded
+loaded
+loaded
+Process ID: 31
+State: TERMINATED
+Program Counter: 10850
+Instruction Base: 10851
+Data Base: 10870
+Memory Limit: 287
+CPU Cycles Used: 66
+Register Value: -1
+Max Memory Needed: 287
+Main Memory Base: 10841
+Total CPU Cycles Consumed: 3427
+Process 31 terminated. Entered running state at: 477. Terminated at: 3904. Total Execution Time: 3427.
+Process 31 terminated and released memory from 10841 to 11137.
+print
+Process 70 completed I/O and is moved to the ReadyQueue.
+Process 30 has moved to Running.
+Process ID: 30
+State: TERMINATED
+Program Counter: 10627
+Instruction Base: 10628
+Data Base: 10645
+Memory Limit: 213
+CPU Cycles Used: 72
+Register Value: 5
+Max Memory Needed: 213
+Main Memory Base: 10618
+Total CPU Cycles Consumed: 3442
+Process 30 terminated. Entered running state at: 469. Terminated at: 3911. Total Execution Time: 3442.
+Process 30 terminated and released memory from 10618 to 10840.
+Process 56 has moved to Running.
+loaded
+Process 56 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 39 has moved to Running.
+Process ID: 39
+State: TERMINATED
+Program Counter: 13969
+Instruction Base: 13970
+Data Base: 13984
+Memory Limit: 303
+CPU Cycles Used: 82
+Register Value: 73
+Max Memory Needed: 303
+Main Memory Base: 13960
+Total CPU Cycles Consumed: 3318
+Process 39 terminated. Entered running state at: 608. Terminated at: 3926. Total Execution Time: 3318.
+Process 39 terminated and released memory from 13960 to 14272.
+print
+Process 56 completed I/O and is moved to the ReadyQueue.
+Process 32 has moved to Running.
+compute
+loaded
+stored
+stored
+Process 32 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 48 has moved to Running.
+Process ID: 48
+State: TERMINATED
+Program Counter: 9682
+Instruction Base: 9683
+Data Base: 9692
+Memory Limit: 454
+CPU Cycles Used: 45
+Register Value: -1
+Max Memory Needed: 454
+Main Memory Base: 9673
+Total CPU Cycles Consumed: 1585
+Process 48 terminated. Entered running state at: 2369. Terminated at: 3954. Total Execution Time: 1585.
+Process 48 terminated and released memory from 9673 to 10136.
+print
+Process 32 completed I/O and is moved to the ReadyQueue.
+Process 47 has moved to Running.
+stored
+loaded
+stored
+compute
+compute
+Process 47 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 40 has moved to Running.
+Process ID: 40
+State: TERMINATED
+Program Counter: 14282
+Instruction Base: 14283
+Data Base: 14303
+Memory Limit: 429
+CPU Cycles Used: 72
+Register Value: 14
+Max Memory Needed: 429
+Main Memory Base: 14273
+Total CPU Cycles Consumed: 3355
+Process 40 terminated. Entered running state at: 632. Terminated at: 3987. Total Execution Time: 3355.
+Process 40 terminated and released memory from 14273 to 14711.
+Process 49 has moved to Running.
+Process ID: 49
+State: TERMINATED
+Program Counter: 9
+Instruction Base: 10
+Data Base: 17
+Memory Limit: 314
+CPU Cycles Used: 21
+Register Value: 2
+Max Memory Needed: 314
+Main Memory Base: 0
+Total CPU Cycles Consumed: 1618
+Process 49 terminated. Entered running state at: 2376. Terminated at: 3994. Total Execution Time: 1618.
+Process 49 terminated and released memory from 0 to 323.
+Process 52 has moved to Running.
+compute
+stored
+loaded
+loaded
+loaded
+Process 52 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 50 has moved to Running.
+loaded
+Process 50 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 52 completed I/O and is moved to the ReadyQueue.
+Process 54 has moved to Running.
+compute
+Process 54 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 50 completed I/O and is moved to the ReadyQueue.
+Process 38 has moved to Running.
+stored
+compute
+compute
+Process 38 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 54 completed I/O and is moved to the ReadyQueue.
+Process 45 has moved to Running.
+loaded
+Process ID: 45
+State: TERMINATED
+Program Counter: 15922
+Instruction Base: 15923
+Data Base: 15943
+Memory Limit: 390
+CPU Cycles Used: 67
+Register Value: -1
+Max Memory Needed: 390
+Main Memory Base: 15913
+Total CPU Cycles Consumed: 2731
+Process 45 terminated. Entered running state at: 1342. Terminated at: 4073. Total Execution Time: 2731.
+Process 45 terminated and released memory from 15913 to 16312.
+Process 55 has moved to Running.
+Process ID: 55
+State: TERMINATED
+Program Counter: 15218
+Instruction Base: 15219
+Data Base: 15225
+Memory Limit: 233
+CPU Cycles Used: 19
+Register Value: -1
+Max Memory Needed: 233
+Main Memory Base: 15209
+Total CPU Cycles Consumed: 1639
+Process 55 terminated. Entered running state at: 2441. Terminated at: 4080. Total Execution Time: 1639.
+Process 55 terminated and released memory from 15209 to 15451.
+Process 44 has moved to Running.
+Process ID: 44
+State: TERMINATED
+Program Counter: 462
+Instruction Base: 463
+Data Base: 476
+Memory Limit: 469
+CPU Cycles Used: 36
+Register Value: -1
+Max Memory Needed: 469
+Main Memory Base: 453
+Total CPU Cycles Consumed: 2753
+Process 44 terminated. Entered running state at: 1334. Terminated at: 4087. Total Execution Time: 2753.
+Process 44 terminated and released memory from 453 to 931.
+Process 3 has moved to Running.
+loaded
+Process ID: 3
+State: TERMINATED
+Program Counter: 959
+Instruction Base: 960
+Data Base: 978
+Memory Limit: 362
+CPU Cycles Used: 72
+Register Value: -1
+Max Memory Needed: 362
+Main Memory Base: 950
+Total CPU Cycles Consumed: 4038
+Process 3 terminated. Entered running state at: 57. Terminated at: 4095. Total Execution Time: 4038.
+Process 3 terminated and released memory from 950 to 1321.
+Process 6 has moved to Running.
+stored
+Process ID: 6
+State: TERMINATED
+Program Counter: 1853
+Instruction Base: 1854
+Data Base: 1874
+Memory Limit: 247
+CPU Cycles Used: 109
+Register Value: 13
+Max Memory Needed: 247
+Main Memory Base: 1844
+Total CPU Cycles Consumed: 3992
+Process 6 terminated. Entered running state at: 111. Terminated at: 4103. Total Execution Time: 3992.
+Process 6 terminated and released memory from 1844 to 2100.
+Process 57 has moved to Running.
+loaded
+Process 57 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 58 has moved to Running.
+stored
+stored
+Process ID: 58
+State: TERMINATED
+Program Counter: 2110
+Instruction Base: 2111
+Data Base: 2116
+Memory Limit: 236
+CPU Cycles Used: 24
+Register Value: 54
+Max Memory Needed: 236
+Main Memory Base: 2101
+Total CPU Cycles Consumed: 1068
+Process 58 terminated. Entered running state at: 3052. Terminated at: 4120. Total Execution Time: 1068.
+Process 58 terminated and released memory from 2101 to 2346.
+print
+Process 57 completed I/O and is moved to the ReadyQueue.
+Process 59 has moved to Running.
+stored
+Process 59 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 61 has moved to Running.
+stored
+stored
+compute
+stored
+stored
+Process 61 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 59 completed I/O and is moved to the ReadyQueue.
+Process 60 has moved to Running.
+compute
+stored
+loaded
+compute
+Process 60 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 64 has moved to Running.
+stored
+compute
+stored
+Process 64 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 65 has moved to Running.
+compute
+loaded
+compute
+Process 65 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 64 completed I/O and is moved to the ReadyQueue.
+Process 67 has moved to Running.
+stored
+stored
+compute
+loaded
+loaded
+stored
+compute
+Process 67 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 66 has moved to Running.
+loaded
+loaded
+compute
+stored
+Process 66 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 68 has moved to Running.
+loaded
+stored
+stored
+Process 68 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 66 completed I/O and is moved to the ReadyQueue.
+Process 69 has moved to Running.
+compute
+compute
+Process ID: 69
+State: TERMINATED
+Program Counter: 6414
+Instruction Base: 6415
+Data Base: 6422
+Memory Limit: 498
+CPU Cycles Used: 43
+Register Value: -1
+Max Memory Needed: 498
+Main Memory Base: 6405
+Total CPU Cycles Consumed: 552
+Process 69 terminated. Entered running state at: 3772. Terminated at: 4324. Total Execution Time: 552.
+Process 69 terminated and released memory from 6405 to 6912.
+print
+Process 68 completed I/O and is moved to the ReadyQueue.
+Process 15 has moved to Running.
+loaded
+Process ID: 15
+State: TERMINATED
+Program Counter: 4740
+Instruction Base: 4741
+Data Base: 4757
+Memory Limit: 467
+CPU Cycles Used: 65
+Register Value: -1
+Max Memory Needed: 467
+Main Memory Base: 4731
+Total CPU Cycles Consumed: 4068
+Process 15 terminated. Entered running state at: 264. Terminated at: 4332. Total Execution Time: 4068.
+Process 15 terminated and released memory from 4731 to 5207.
+Process 63 has moved to Running.
+Process 63 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 62 has moved to Running.
+Process 62 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 63 completed I/O and is moved to the ReadyQueue.
+Process 24 has moved to Running.
+loaded
+stored
+Process ID: 24
+State: TERMINATED
+Program Counter: 8118
+Instruction Base: 8119
+Data Base: 8136
+Memory Limit: 274
+CPU Cycles Used: 68
+Register Value: 4
+Max Memory Needed: 274
+Main Memory Base: 8109
+Total CPU Cycles Consumed: 3968
+Process 24 terminated. Entered running state at: 387. Terminated at: 4355. Total Execution Time: 3968.
+Process 24 terminated and released memory from 8109 to 8392.
+print
+Process 62 completed I/O and is moved to the ReadyQueue.
+Process 70 has moved to Running.
+compute
+Process 70 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 56 has moved to Running.
+Process ID: 56
+State: TERMINATED
+Program Counter: 11738
+Instruction Base: 11739
+Data Base: 11748
+Memory Limit: 471
+CPU Cycles Used: 18
+Register Value: -1
+Max Memory Needed: 471
+Main Memory Base: 11729
+Total CPU Cycles Consumed: 1633
+Process 56 terminated. Entered running state at: 2742. Terminated at: 4375. Total Execution Time: 1633.
+Process 56 terminated and released memory from 11729 to 12209.
+print
+Process 70 completed I/O and is moved to the ReadyQueue.
+Process 32 has moved to Running.
+loaded
+compute
+Process ID: 32
+State: TERMINATED
+Program Counter: 11147
+Instruction Base: 11148
+Data Base: 11165
+Memory Limit: 271
+CPU Cycles Used: 87
+Register Value: -1
+Max Memory Needed: 271
+Main Memory Base: 11138
+Total CPU Cycles Consumed: 3889
+Process 32 terminated. Entered running state at: 505. Terminated at: 4394. Total Execution Time: 3889.
+Process 32 terminated and released memory from 11138 to 11418.
+Process 47 has moved to Running.
+compute
+stored
+Process 47 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 52 has moved to Running.
+compute
+Process 52 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 47 completed I/O and is moved to the ReadyQueue.
+Process 50 has moved to Running.
+compute
+Process 50 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 52 completed I/O and is moved to the ReadyQueue.
+Process 38 has moved to Running.
+loaded
+compute
+compute
+Process ID: 38
+State: TERMINATED
+Program Counter: 13476
+Instruction Base: 13477
+Data Base: 13495
+Memory Limit: 483
+CPU Cycles Used: 127
+Register Value: -1
+Max Memory Needed: 483
+Main Memory Base: 13467
+Total CPU Cycles Consumed: 3882
+Process 38 terminated. Entered running state at: 600. Terminated at: 4482. Total Execution Time: 3882.
+Process 38 terminated and released memory from 13467 to 13959.
+print
+Process 50 completed I/O and is moved to the ReadyQueue.
+Process 54 has moved to Running.
+compute
+loaded
+stored
+Process 54 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 57 has moved to Running.
+compute
+compute
+Process 57 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 54 completed I/O and is moved to the ReadyQueue.
+Process 61 has moved to Running.
+stored
+stored
+Process 61 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 59 has moved to Running.
+stored
+loaded
+Process ID: 59
+State: TERMINATED
+Program Counter: 2785
+Instruction Base: 2786
+Data Base: 2795
+Memory Limit: 226
+CPU Cycles Used: 34
+Register Value: -1
+Max Memory Needed: 226
+Main Memory Base: 2776
+Total CPU Cycles Consumed: 1489
+Process 59 terminated. Entered running state at: 3059. Terminated at: 4548. Total Execution Time: 1489.
+Process 59 terminated and released memory from 2776 to 3011.
+print
+Process 61 completed I/O and is moved to the ReadyQueue.
+Process 60 has moved to Running.
+Process 60 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 65 has moved to Running.
+compute
+compute
+Process 65 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 60 completed I/O and is moved to the ReadyQueue.
+Process 64 has moved to Running.
+stored
+Process 64 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 67 has moved to Running.
+Process 67 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 64 completed I/O and is moved to the ReadyQueue.
+Process 66 has moved to Running.
+Process 66 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 68 has moved to Running.
+stored
+stored
+compute
+loaded
+Process ID: 68
+State: TERMINATED
+Program Counter: 13143
+Instruction Base: 13144
+Data Base: 13156
+Memory Limit: 319
+CPU Cycles Used: 31
+Register Value: -1
+Max Memory Needed: 319
+Main Memory Base: 13134
+Total CPU Cycles Consumed: 875
+Process 68 terminated. Entered running state at: 3750. Terminated at: 4625. Total Execution Time: 875.
+Process 68 terminated and released memory from 13134 to 13462.
+print
+Process 67 completed I/O and is moved to the ReadyQueue.
+print
+Process 66 completed I/O and is moved to the ReadyQueue.
+Process 63 has moved to Running.
+Process ID: 63
+State: TERMINATED
+Program Counter: 7344
+Instruction Base: 7345
+Data Base: 7350
+Memory Limit: 411
+CPU Cycles Used: 22
+Register Value: 87
+Max Memory Needed: 411
+Main Memory Base: 7335
+Total CPU Cycles Consumed: 1438
+Process 63 terminated. Entered running state at: 3194. Terminated at: 4632. Total Execution Time: 1438.
+Process 63 terminated and released memory from 7335 to 7755.
+Process 62 has moved to Running.
+loaded
+loaded
+loaded
+stored
+compute
+Process 62 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 70 has moved to Running.
+compute
+Process 70 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 47 has moved to Running.
+loaded
+Process 47 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 70 completed I/O and is moved to the ReadyQueue.
+Process 52 has moved to Running.
+Process ID: 52
+State: TERMINATED
+Program Counter: 3139
+Instruction Base: 3140
+Data Base: 3156
+Memory Limit: 255
+CPU Cycles Used: 72
+Register Value: -1
+Max Memory Needed: 255
+Main Memory Base: 3130
+Total CPU Cycles Consumed: 2266
+Process 52 terminated. Entered running state at: 2420. Terminated at: 4686. Total Execution Time: 2266.
+Process 52 terminated and released memory from 3130 to 3394.
+Process 50 has moved to Running.
+compute
+Process 50 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 47 completed I/O and is moved to the ReadyQueue.
+Process 57 has moved to Running.
+compute
+compute
+Process 57 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 50 completed I/O and is moved to the ReadyQueue.
+Process 54 has moved to Running.
+loaded
+stored
+loaded
+compute
+Process 54 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 61 has moved to Running.
+Process ID: 61
+State: TERMINATED
+Program Counter: 4460
+Instruction Base: 4461
+Data Base: 4475
+Memory Limit: 217
+CPU Cycles Used: 51
+Register Value: 68
+Max Memory Needed: 217
+Main Memory Base: 4451
+Total CPU Cycles Consumed: 1675
+Process 61 terminated. Entered running state at: 3089. Terminated at: 4764. Total Execution Time: 1675.
+Process 61 terminated and released memory from 4451 to 4677.
+Process 65 has moved to Running.
+compute
+stored
+Process 65 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 60 has moved to Running.
+compute
+Process 60 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 65 completed I/O and is moved to the ReadyQueue.
+Process 64 has moved to Running.
+compute
+Process 64 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 60 completed I/O and is moved to the ReadyQueue.
+Process 67 has moved to Running.
+loaded
+loaded
+compute
+stored
+Process 67 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 64 completed I/O and is moved to the ReadyQueue.
+Process 66 has moved to Running.
+compute
+compute
+compute
+Process 66 has a TimeOUT interrupt and is moved to the ReadyQueue.
+print
+Process 67 completed I/O and is moved to the ReadyQueue.
+Process 62 has moved to Running.
+Process 62 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 70 has moved to Running.
+compute
+stored
+Process 70 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 62 completed I/O and is moved to the ReadyQueue.
+Process 47 has moved to Running.
+Process ID: 47
+State: TERMINATED
+Program Counter: 14721
+Instruction Base: 14722
+Data Base: 14740
+Memory Limit: 487
+CPU Cycles Used: 96
+Register Value: -1
+Max Memory Needed: 487
+Main Memory Base: 14712
+Total CPU Cycles Consumed: 2559
+Process 47 terminated. Entered running state at: 2345. Terminated at: 4904. Total Execution Time: 2559.
+Process 47 terminated and released memory from 14712 to 15208.
+print
+Process 70 completed I/O and is moved to the ReadyQueue.
+Process 57 has moved to Running.
+stored
+Process ID: 57
+State: TERMINATED
+Program Counter: 3404
+Instruction Base: 3405
+Data Base: 3417
+Memory Limit: 462
+CPU Cycles Used: 78
+Register Value: 28
+Max Memory Needed: 462
+Main Memory Base: 3395
+Total CPU Cycles Consumed: 1867
+Process 57 terminated. Entered running state at: 3045. Terminated at: 4912. Total Execution Time: 1867.
+Process 57 terminated and released memory from 3395 to 3866.
+Process 50 has moved to Running.
+compute
+compute
+Process 50 has a TimeOUT interrupt and is moved to the ReadyQueue.
+Process 54 has moved to Running.
+Process 54 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 65 has moved to Running.
+loaded
+Process 65 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 54 completed I/O and is moved to the ReadyQueue.
+Process 60 has moved to Running.
+stored
+compute
+stored
+Process ID: 60
+State: TERMINATED
+Program Counter: 5489
+Instruction Base: 5490
+Data Base: 5503
+Memory Limit: 442
+CPU Cycles Used: 79
+Register Value: 93
+Max Memory Needed: 442
+Main Memory Base: 5480
+Total CPU Cycles Consumed: 1895
+Process 60 terminated. Entered running state at: 3081. Terminated at: 4976. Total Execution Time: 1895.
+Process 60 terminated and released memory from 5480 to 5931.
+print
+Process 65 completed I/O and is moved to the ReadyQueue.
+Process 64 has moved to Running.
+Process ID: 64
+State: TERMINATED
+Program Counter: 1331
+Instruction Base: 1332
+Data Base: 1341
+Memory Limit: 498
+CPU Cycles Used: 43
+Register Value: 27
+Max Memory Needed: 498
+Main Memory Base: 1322
+Total CPU Cycles Consumed: 1329
+Process 64 terminated. Entered running state at: 3654. Terminated at: 4983. Total Execution Time: 1329.
+Process 64 terminated and released memory from 1322 to 1829.
+Process 66 has moved to Running.
+Process 66 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 67 has moved to Running.
+stored
+stored
+loaded
+Process ID: 67
+State: TERMINATED
+Program Counter: 11428
+Instruction Base: 11429
+Data Base: 11448
+Memory Limit: 299
+CPU Cycles Used: 63
+Register Value: -1
+Max Memory Needed: 299
+Main Memory Base: 11419
+Total CPU Cycles Consumed: 1274
+Process 67 terminated. Entered running state at: 3726. Terminated at: 5000. Total Execution Time: 1274.
+Process 67 terminated and released memory from 11419 to 11727.
+print
+Process 66 completed I/O and is moved to the ReadyQueue.
+Process 62 has moved to Running.
+stored
+Process ID: 62
+State: TERMINATED
+Program Counter: 6973
+Instruction Base: 6974
+Data Base: 6986
+Memory Limit: 352
+CPU Cycles Used: 39
+Register Value: 70
+Max Memory Needed: 352
+Main Memory Base: 6964
+Total CPU Cycles Consumed: 1845
+Process 62 terminated. Entered running state at: 3163. Terminated at: 5008. Total Execution Time: 1845.
+Process 62 terminated and released memory from 6964 to 7325.
+Process 70 has moved to Running.
+compute
+stored
+Process 70 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 50 has moved to Running.
+loaded
+compute
+Process 50 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 70 completed I/O and is moved to the ReadyQueue.
+Process 54 has moved to Running.
+Process 54 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 50 completed I/O and is moved to the ReadyQueue.
+Process 65 has moved to Running.
+stored
+Process 65 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 54 completed I/O and is moved to the ReadyQueue.
+Process 66 has moved to Running.
+compute
+stored
+Process 66 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 65 completed I/O and is moved to the ReadyQueue.
+Process 70 has moved to Running.
+compute
+stored
+Process 70 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 66 completed I/O and is moved to the ReadyQueue.
+Process 50 has moved to Running.
+Process ID: 50
+State: TERMINATED
+Program Counter: 8402
+Instruction Base: 8403
+Data Base: 8422
+Memory Limit: 356
+CPU Cycles Used: 97
+Register Value: -1
+Max Memory Needed: 356
+Main Memory Base: 8393
+Total CPU Cycles Consumed: 2722
+Process 50 terminated. Entered running state at: 2383. Terminated at: 5105. Total Execution Time: 2722.
+Process 50 terminated and released memory from 8393 to 8758.
+print
+Process 70 completed I/O and is moved to the ReadyQueue.
+Process 54 has moved to Running.
+loaded
+Process ID: 54
+State: TERMINATED
+Program Counter: 12249
+Instruction Base: 12250
+Data Base: 12266
+Memory Limit: 222
+CPU Cycles Used: 65
+Register Value: -1
+Max Memory Needed: 222
+Main Memory Base: 12240
+Total CPU Cycles Consumed: 2679
+Process 54 terminated. Entered running state at: 2434. Terminated at: 5113. Total Execution Time: 2679.
+Process 54 terminated and released memory from 12240 to 12471.
+Process 65 has moved to Running.
+compute
+Process 65 issued an IOInterrupt and moved to the IOWaitingQueue.
+Process 66 has moved to Running.
+stored
+Process ID: 66
+State: TERMINATED
+Program Counter: 2356
+Instruction Base: 2357
+Data Base: 2372
+Memory Limit: 328
+CPU Cycles Used: 74
+Register Value: 58
+Max Memory Needed: 328
+Main Memory Base: 2347
+Total CPU Cycles Consumed: 1417
+Process 66 terminated. Entered running state at: 3719. Terminated at: 5136. Total Execution Time: 1417.
+Process 66 terminated and released memory from 2347 to 2684.
+Process 70 has moved to Running.
+Process ID: 70
+State: TERMINATED
+Program Counter: 10146
+Instruction Base: 10147
+Data Base: 10161
+Memory Limit: 461
+CPU Cycles Used: 76
+Register Value: 12
+Max Memory Needed: 461
+Main Memory Base: 10137
+Total CPU Cycles Consumed: 1250
+Process 70 terminated. Entered running state at: 3893. Terminated at: 5143. Total Execution Time: 1250.
+Process 70 terminated and released memory from 10137 to 10607.
+print
+Process 65 completed I/O and is moved to the ReadyQueue.
+Process 65 has moved to Running.
+Process 65 issued an IOInterrupt and moved to the IOWaitingQueue.
+print
+Process 65 completed I/O and is moved to the ReadyQueue.
+Process 65 has moved to Running.
+compute
+compute
+Process ID: 65
+State: TERMINATED
+Program Counter: 5941
+Instruction Base: 5942
+Data Base: 5962
+Memory Limit: 463
+CPU Cycles Used: 131
+Register Value: 53
+Max Memory Needed: 463
+Main Memory Base: 5932
+Total CPU Cycles Consumed: 1486
+Process 65 terminated. Entered running state at: 3692. Terminated at: 5178. Total Execution Time: 1486.
+Process 65 terminated and released memory from 5932 to 6404.
+Total CPU time used: 5185.
